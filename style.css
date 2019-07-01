@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    flex-direction:column;
+    
+}
+label{
+    font-size: 20px;
+}
+textarea{
+    width:30%;
+    height: 6em;
+    font-size: 14px;
+}
